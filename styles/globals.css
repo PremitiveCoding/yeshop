@@ -130,8 +130,7 @@ width: 100%;
 
 .hero-banner-container{
   padding: 100px 40px;
-  background-image: linear-gradient( 135deg, #2AFADF 10%, #4C83FF 100%);
-    border-radius: 15px;
+  background-image: linear-gradient(to left top, #d1ce6b, #f2b663, #ff9c73, #ff8693, #f97dba, #d08fe7, #8ca3ff, #00b3ff, #00cdff, #00e2e8, #00f2ad, #66fb5f);  border-radius: 15px;
   position: relative;
   height: 500px;
   line-height: 0.9; 
