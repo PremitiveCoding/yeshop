@@ -212,8 +212,7 @@ text-align: end;
 }
 .footer-banner-container{
   padding: 100px 40px;
-  background-image: linear-gradient( 135deg, #FFF886 10%, #F072B6 100%);
-  border-radius: 15px;
+  background-image: linear-gradient(to left bottom, #0f70cd, #008fdd, #00a9d9, #00c0c5, #00d3ab, #69d385, #a0d063, #d1c84e, #f5aa46, #ff895d, #ff6b85, #fb5fb3);  border-radius: 15px;
   position: relative;
   height: 400px;
   line-height: 1; 
