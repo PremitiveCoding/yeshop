@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <Head>
-    <link rel='icon' href="/favicon.gif"/>
+    <link rel='icon' href="/favicon.png"/>
     </Head>
     <StateContext>
       <Layout>
